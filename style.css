@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: green;
+}
+
+.container {
+    background: white;
+    width: 300px;
+    max-width: calc(100% - 48px);
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin: 8px 0;
+    background: lightgreen;
+    list-style: none;
+    border-radius: 5px;
+}
